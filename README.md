@@ -1,6 +1,6 @@
 # Atölye Envanteri
 
-Hobi odasındaki hırdavat, devre elemanı ve alet edevatı kutulara göre kataloglayıp isim/açıklama/etikete göre anında arayabildiğin, tek dosyalık bir web uygulaması. Apple cihazları ve bilgisayardan aynı hesapla erişilir, veriler cihazlar arasında senkron çalışır.
+Atölyedeki hırdavat, devre elemanı ve alet edevatı kutulara göre kataloglayıp isim/açıklama/etikete göre anında arayabildiğin, tek dosyalık bir web uygulaması. Apple cihazları ve bilgisayardan aynı hesapla erişilir, veriler cihazlar arasında senkron çalışır.
 
 **Canlı:** https://hazine.flythespirit.workers.dev
 
