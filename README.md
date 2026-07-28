@@ -22,10 +22,6 @@ Hobi odasındaki hırdavat, devre elemanı ve alet edevatı kutulara göre katal
 
 ## Kurulum
 
-1. Bir Supabase projesi oluştur, `boxes` ve `items` tablolarını (RLS politikalarıyla) kur
-2. `index.html` dosyasının en üstündeki `SUPABASE_URL` ve `SUPABASE_ANON_KEY` alanlarını kendi proje bilgilerinle doldur
-3. Supabase Authentication ayarlarından "Confirm email"i kapat (tek/az kullanıcılı kişisel kullanım için)
-4. Cloudflare Workers veya Pages ile bu repoyu bağlayıp yayınla
 
 ## Dosyalar
 
